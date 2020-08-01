@@ -1,10 +1,5 @@
 # Domain-Specific Batch Normalization for Unsupervised Domain Adaptation (DSBN)
 Pytorch implementation of Domain-Specific Batch Normalization for Unsupervised Domain Adaptation (CVPR2019).
-![BN vs DSBN](captions/dsbn.jpg)
-
-## Citation
-If you want to cite our work, follow the link [arXiv](https://arxiv.org/abs/1906.03950). 
-
 
 ## Installation
 We recommand to create conda virtualenv nameded pytorch-py36
